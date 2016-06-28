@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#fff</color>
+    <color name="red">#ff6666</color>
+    <color name="green">#7acc52</color>
+    <color name="light_grey_line">#dedede</color>
+
+    <color name="trans">#0000</color>
+    <color name="black">#000</color>
+    <color name="trans_white">#8fff</color>
+    <color name="trans_black">#2000</color>
+    <color name="color_eeeeee">#eeeeee</color>
+    <color name="black_10">#11000000</color>
+    <color name="black_13">#21000000</color>
+    <color name="black_15">#26000000</color>
+    <color name="black_19">#30000000</color>
+    <color name="black_40">#66000000</color>
+    <color name="black_50">#88000000</color>
+    <color name="black_60">#A2000000</color>
+    <color name="black_70">#B0000000</color>
+    <color name="black_80">#cc000000</color>
+    <color name="black_90">#E6000000</color>
+    <color name="white_70">#B2ffffff</color>
+    <color name="white_80">#ccffffff</color>
+    <color name="white_90">#eeffffff</color>
+    <color name="gray1">#464646</color>
+    <color name="gray2">#666666</color>
+    <color name="gray3">#999999</color>
+    <color name="gray4">#bababa</color>
+    <color name="gray5">#333333</color>
+
+    <color name="yydb_color_e55051">#e55051</color>
+    <color name="yydb_color_faf6f0">#faf6f0</color>
+    <color name="yydb_color_efcebd">#efcebd</color>
+    <color name="yydb_color_e54f51">#e54f51</color>
+    <color name="yydb_color_e5e5e5">#e5e5e5</color>
+    <color name="yydb_color_4e4e4e">#4e4e4e</color>
+    <color name="color_cca184">#cca184</color>
+    <color name="color_e54f51">#e54f51</color>
+    <color name="red_50">#7fff6666</color>
+    <color name="color_f5f5f5">#f5f5f5</color>
+    <color name="color_edt_hint">#cccccc</color>
+    <color name="gray4_50">#7fbababa</color>
+    <color name="color_ff9620">#ff9620</color>
+    <color name="color_logo_yellow">#ff9100</color>
+    <color name="color_535353">#535353</color>
+    <color name="color_fff04c">#fff04c</color>
+
+    <color name="easy_money_blue">#5069a6</color>
+    <color name="easy_money_blue_70">#b25069a6</color>
+
+    <color name="grey">#80000000</color>
+    <color name="color_edt_ok">#666666</color>
+    
+    <color name="red_fe5144">#fe5144</color>
+    <color name="black_414142">#414142</color>
+    <color name="grey_8c8d8f">#8c8d8f</color>
+    <color name="grey_866b18">#866b18</color>
+    <color name="grey_bebfc2">#bebfc2</color>
+</resources>
